@@ -14,5 +14,3 @@ elif b>=2 and a>=2.0:
 else:
       print('That CPU could use an upgrade.')
 
-
-That is a low-performance CPU.
